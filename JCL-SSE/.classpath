@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="useful jars/biojava-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="useful jars/biojava-structure-4.2.0.jar"/>
+	<classpathentry kind="lib" path="useful jars/biojava-structure-gui-4.2.0 (1).jar"/>
+	<classpathentry kind="lib" path="useful jars/FileBreaker.jar"/>
+	<classpathentry kind="lib" path="useful jars/forester-1.005.jar"/>
+	<classpathentry kind="lib" path="useful jars/jaligner.jar"/>
+	<classpathentry kind="lib" path="useful jars/jclUser.jar"/>
+	<classpathentry kind="lib" path="useful jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="useful jars/slf4j-simple-1.7.25.jar"/>
+	<classpathentry kind="lib" path="useful jars/Jmol.jar"/>
+	<classpathentry kind="lib" path="useful jars/vecmath-1.5.2.jar"/>
+	<classpathentry kind="lib" path="useful jars/biojava-alignment-4.2.0 (1).jar"/>
+	<classpathentry kind="lib" path="useful jars/jcolorbrewer-5.2.jar"/>
+	<classpathentry kind="lib" path="useful jars/jfasta-2.1.3.jar"/>
+	<classpathentry kind="lib" path="useful jars/jfasta-2.1.3-sources.jar"/>
+	<classpathentry kind="lib" path="useful jars/jfasta-2.1.3-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="useful jars/jfasta-2.1.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="useful jars/fastaReader.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
